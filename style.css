@@ -1,0 +1,9 @@
+.cabecalho {background-color: rgba(4, 4, 56, 0.541);
+color: blanchedalmond; display: flex; justify-content: space-around; padding: 24px 0; font-size: 24px;}
+.cabecalho-lista-item *{display: inline-block; margin: 0 16px; padding: 24px 0;}
+.cabecalho-imagem{width: 20%;}
+.imagem-1-do-texo{width:30%;}
+.Escola {background-image: linear-gradient(#383D58,#00c0eb); color: blanchedalmond;
+     display:flex; justify-content: center; align-items: center; padding: 24px 0;}
+.Escola-conteudo{width: 35%; padding: 24px 0;}
+.estuante-imagem{width: 300px;}
